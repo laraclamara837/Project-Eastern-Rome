@@ -31,7 +31,7 @@
 		"innerColor": [206,185,106],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Metanoia",
-		"uniques": ["May Buy [Military] Unit With [Faith]","[+40]% Production when constructing [Faith] buildings [in all cities]","[Faith] buildings increase Religious Pressure by [+40]%","Annexed"],
+		"uniques": ["May Buy [Military] Unit With [Faith]","[+40]% Production when constructing [Faith] buildings [in all cities]","[Faith] buildings increase Religious Pressure by [+40]%","[+50]% [Happiness] [in annexed Cities] <if following our religion>"],
 
 		"cities": ["Byzantion", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Mount Athos", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
