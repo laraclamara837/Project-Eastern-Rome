@@ -29,10 +29,14 @@
 
 		"outerColor": [52,13,58],
 		"innerColor": [206,185,106],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"favoredReligion": "Christianity",
+		"uniqueName": "Metanoia",
+		"uniques": ["May Buy [Military] Unit With [Faith]","[+40]% Production when constructing [Faith] buildings [in all cities]","[Faith] buildings increase Religious Pressure by [+40]%","Annexed"],
+
+		"cities": ["Byzantion", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+			"Mount Athos", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
+			"Tyana", "Bethlehem", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
+			"Patra", "Korinthos", "Alexandria"],
+                "spyNames": ["Basil", "Nikophoros", "Julian", "Philippos", "Theophylaktos", "Simeon", "Anna", "Ioanno", "Xene", "Euphrosyne"],
 	}
 ]
