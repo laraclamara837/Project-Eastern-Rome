@@ -27,8 +27,8 @@
 		"afterPeace": "Perversion and wickedness seep from your lands and stain the world! Soon the day will come where I shall cleanse your rot.",
 		"tradeRequest": "We send to you all the delights of Anatolia: fermented murri, olive oil, wine, kefalotyri. I hope you have the good taste to appreciate them, Now what Will You Give Me In Exchange",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [52,13,58],
+		"innerColor": [206,185,106],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
