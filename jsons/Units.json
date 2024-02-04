@@ -4,16 +4,16 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Eastern Rome",
 		"replaces": "Horseman",
-		"movement": 3,
-		"strength": 20,
+		"movement": 4,
+		"strength": 30,
 		"cost": 60,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>",""],
+		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>","[+25]% Strength <when adjacent to a [Great General] unit>"],
 		"hurryCostModifier": 20,
-		"promotion": [],
+		"promotion": ["Home Sweet Home"],
 		"attackSound": "horse"
 	}
 ]
