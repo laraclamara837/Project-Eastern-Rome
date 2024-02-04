@@ -7,7 +7,7 @@
 		"hurryCostModifier": 30,
 		"happiness": 4,
 		"culture": 2,
-		"uniques": ["[Great General] is earned [+60]% Faster","May not be constructed [in annexed cities]","[All] Newly Trained [Military] units In [This] city Will Start with [20] Experience"],
+		"uniques": ["[Great General] is earned [+60]% Faster","May not be constructed [in annexed cities]","[All] Newly Trained [Military] units In [This] city Will Start with [20] Experience","These [Effect] also apply <during construction>"],
 		"requiredTech": "Mathematics"
 	}
 ]
