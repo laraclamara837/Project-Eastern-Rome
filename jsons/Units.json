@@ -1,17 +1,19 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+                "name": "Palatini",
+		"unitType": "Mounted",
+		"uniqueTo": "Eastern Rome",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 20,
+		"cost": 60,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>",""],
+		"hurryCostModifier": 20,
+		"promotion": [],
+		"attackSound": "horse"
 	}
 ]
