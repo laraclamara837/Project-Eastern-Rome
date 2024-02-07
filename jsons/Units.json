@@ -11,7 +11,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>","[+25]% Strength <when adjacent to a [Great General] unit>"],
+		"uniques": ["Can move after attacking", "[-15]% Strength <vs cities> <when attacking>","No defensive terrain bonus","[+25]% Strength <when adjacent to a [Great General] unit>"],
 		"hurryCostModifier": 20,
 		"promotion": ["Home Sweet Home"],
 		"attackSound": "horse"
